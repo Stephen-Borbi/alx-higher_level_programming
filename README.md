@@ -1,1 +1,2 @@
-# 0x00. Python - Hello, World. First project in python
+# ALX SCHOOL
+# HIGHER LEVEL PROGRAMMING (PYTHON PROGRAMMING)
