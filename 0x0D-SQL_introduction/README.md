@@ -1,2 +1,2 @@
-#ALX SCHOOL
-#Introduction to SQL
+##ALX SCHOOL
+##Introduction to SQL
